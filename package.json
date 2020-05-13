@@ -1,0 +1,16 @@
+{
+  "name": "sms-yargs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Dave York",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nexmo": "^2.6.0",
+    "yargs": "^15.3.1"
+  }
+}
